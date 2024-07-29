@@ -24,10 +24,10 @@ mensaje_base = """
     <title>Tech Awards 2024 Invitation</title>
 </head>
 <body>
-    <h3>Nos complace anunciar que los TECH AWARDS 2024 se celebrarán el próximo 28 de agosto. Esta será la tercera edición de un evento que reconoce la excelencia en el desarrollo, emprendimiento, impacto e innovación en tecnologías de la información y comunicaciones.</h3>
     <img src="https://img.techawards2024.cl/var/albums/SAVE%20THE%20DATE%20ACTI.jpg?m=1722003420" alt="Tech Awards 2024" style="width: 100%; height: auto;">
+    <h3 style="color: #007BFF;">Nos complace anunciar que los TECH AWARDS 2024 se celebrarán el próximo 28 de agosto. Esta será la tercera edición de un evento que reconoce la excelencia en el desarrollo, emprendimiento, impacto e innovación en tecnologías de la información y telecomunicaciones.</h3>
     <a href="https://techawards2024.cl/ics/TechAwards2024.ics" style="background-color: #007BFF; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">Agrega el evento a tu calendario</a>
-    <p>Pronto más información. Si tienes alguna pregunta, no dudes en contactarnos a evento@techawards2024.cl
+    <p style="color: #007BFF;">Pronto más información. Si tienes alguna pregunta, no dudes en contactarnos a evento@techawards2024.cl
 </p>
 </body>
 </html>
