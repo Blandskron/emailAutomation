@@ -6,6 +6,10 @@
     {"nombre": "Luz María García", "email": "lmgarcia@acti.cl"},
     {"nombre": "Tomas Araneda", "email": "taraneda@acti.cl"},
     {"nombre": "Rosita Diaz (ACTI A.G.)", "email": "rdiaz@acti.cl"}
+    {"nombre": "Marcela", "email": "marcela@frmultiservicios.cl"},
+    {"nombre": "Patricia", "email": "patricia@frmultiservicios.cl"},
+    {"nombre": "Marcela", "email": "marcela@expodiversidad.cl"},
+    {"nombre": "Carlos", "email": "contardo.carlos@me.com"}
 
 clientes = [
     {"nombre": "Claudio Marín", "email": "claudiomarin@42labs.cl"},

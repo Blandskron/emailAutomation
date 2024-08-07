@@ -2,15 +2,7 @@ import requests
 
 # Lista de clientes
 clientes = [
-    {"nombre": "Bastian", "email": "bastianlandskronfreelancer@gmail.com"},
-    {"nombre": "Carlos", "email": "carlos@alienigenasagencia.cl"},
-    {"nombre": "Marcela", "email": "marce@alienigenasagencia.cl"},
-    {"nombre": "Carlos", "email": "Guzmanc.marcela@gmail.com"},
-    {"nombre": "Marcela", "email": "Solrakwin@gmail.com"},
-    {"nombre": "Nathalia Quijada", "email": "nquijada@acti.cl"},
-    {"nombre": "Luz María García", "email": "lmgarcia@acti.cl"},
-    {"nombre": "Tomas Araneda", "email": "taraneda@acti.cl"},
-    {"nombre": "Rosita Diaz (ACTI A.G.)", "email": "rdiaz@acti.cl"}
+    {"nombre": "Bastian", "email": "bastianlandskronfreelancer@gmail.com"}
 ]
 
 
@@ -40,7 +32,7 @@ def enviar_email(cliente):
     
     payload = {
         'to': email_cliente,
-        'subject': "Save the Date",
+        'subject': f"Hola {cliente['nombre']} Invitación TECH AWARS 2024",
         'message': mensaje
     }
     
