@@ -292,3 +292,37 @@ clientes = [
     {"nombre": "Adolfo Gómez", "email": "adolfo@zentagroup.com"},
     {"nombre": "Tomás Vera", "email": "tomas@zentagroup.com"}
 ]
+# Lista de clientes
+clientes = [
+    {"nombre": "Airam Fernández", "email": "afernandez@df.cl"},
+    {"nombre": "Alejandra Rivera", "email": "arivera@df.cl"},
+    {"nombre": "Alejandro Jofré", "email": "alejandro.jofre@latercera.com"},
+    {"nombre": "Alejandro Alaluf", "email": "aalaluf@yahoo.com"},
+    {"nombre": "Alexis Ibarra", "email": "alexis.ibarra@mercurio.cl"},
+    {"nombre": "Andrea Obaid", "email": "andrea.obaid@neuronagroup.cl"},
+    {"nombre": "Andrés Cárdenas", "email": "acardenas@elmostrador.cl"},
+    {"nombre": "Arturo Catalán", "email": "arturo.catalan@mercurio.cl"},
+    {"nombre": "Bernardita Villa", "email": "bvilla@biobiochile.cl"},
+    {"nombre": "Carol Oliva", "email": "coliva@emb.cl"},
+    {"nombre": "Chantal Aguilar", "email": "caguilar@13.cl"},
+    {"nombre": "Chistian Noguchi", "email": "christian.noguchi@warnermedia.com"},
+    {"nombre": "Daniel Silva", "email": "daniel.silva@megamedia.cl"},
+    {"nombre": "Felipe León", "email": "felipe.leon@tvn.cl"},
+    {"nombre": "Felipe Pumarino", "email": "felipe.pumarino@gmail.com"},
+    {"nombre": "Germán Kreisel", "email": "german.kreisel@latercera.com"},
+    {"nombre": "Gwendolyn Ledger", "email": "gledger@americaeconomia.com"},
+    {"nombre": "Joan Alemany", "email": "joan.alemany@warnermedia.com"},
+    {"nombre": "Juan Riquelme", "email": "jriquelmediaz@gmail.com"},
+    {"nombre": "Macarena Bravo", "email": "macarena.bravo@anda.cl"},
+    {"nombre": "Magdalena Andrade", "email": "magdalena.andrade@grupocopesa.cl"},
+    {"nombre": "Magdalena Fuenzalida", "email": ""},
+    {"nombre": "Makarena Zapata", "email": "makarena.zr@gmail.com"},
+    {"nombre": "Marco Zechetto", "email": "mzechetto@df.cl"},
+    {"nombre": "Marisa Cominetti", "email": "Marisa.Cominetti@mercurio.cl"},
+    {"nombre": "Martin Cifuentes", "email": "martin.copesa@grupocopesa.cl"},
+    {"nombre": "Melissa Forno", "email": "forno.melissa@gmail.com"},
+    {"nombre": "Pamela Carrasco", "email": "pamela.carrasco@gmail.com"},
+    {"nombre": "Renato Olmos", "email": "rolmos@df.cl"},
+    {"nombre": "Tomas Molina", "email": "tomas.molina@mercurio.cl"},
+    {"nombre": "Viviana Coloma", "email": "vcoloma@cooperativa.cl"}
+]

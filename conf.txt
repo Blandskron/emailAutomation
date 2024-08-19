@@ -1,0 +1,21 @@
+// Configuración de Nodemailer con SMTP de cPanel
+const transporter = nodemailer.createTransport({
+    host: 's320.v2nets.com', // Host del servidor SMTP de cPanel
+    port: 465, // Puerto SMTP (465 para SSL)
+    secure: true, // true para SSL
+    auth: {
+        user: 'evento@techawards2024.cl',
+        pass: 'i>6P;7)7xlN2'
+    }
+});
+
+
+const transporter = nodemailer.createTransport({
+    host: 's320.v2nets.com', // Host del servidor SMTP de cPanel
+    port: 465, // Puerto SMTP (465 para SSL)
+    secure: true, // true para SSL
+    auth: {
+        user: 'eventotech@techawards2024.cl',
+        pass: 'wbUxT=9=E%l8'
+    }
+});

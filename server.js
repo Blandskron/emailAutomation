@@ -16,6 +16,7 @@ const transporter = nodemailer.createTransport({
     }
 });
 
+
 // Función para enviar el correo
 const sendMail = async ({ to, subject, message }) => {
     const mailOptions = {

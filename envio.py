@@ -6,6 +6,7 @@ clientes = [
 ]
 
 
+
 # Mensaje base
 mensaje_base = """
 <!DOCTYPE html>
@@ -17,7 +18,7 @@ mensaje_base = """
 </head>
 <body>
     <a href="https://techawards2024.cl/home/">
-    <img src="https://img.techawards2024.cl/var/albums/Invitacio%CC%81n%20TECH%20AWARDS%202024.jpg?m=1722994939" alt="Tech Awards 2024" style="width: 100%; height: auto;">
+    <img src="https://img.techawards2024.cl/var/albums/Invitacio%CC%81n%20TECH%20AWARDS%202024%20NEW.jpg?m=1724085945" alt="Tech Awards 2024" style="width: 100%; height: auto;">
     </a>
     <a href="https://techawards2024.cl/ics/TechAwards2024.ics" style="background-color: #007BFF; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">Agrega el evento a tu calendario</a>
     <p>Pronto más información. Si tienes alguna pregunta, no dudes en contactarnos a evento@techawards2024.cl
