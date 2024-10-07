@@ -11,8 +11,8 @@ const transporter = nodemailer.createTransport({
     port: 465, // Puerto SMTP (465 para SSL)
     secure: true, // true para SSL
     auth: {
-        user: 'evento@techawards2024.cl',
-        pass: 'i>6P;7)7xlN2'
+        user: 'eventounestadodigital@unestadodigital.cl',
+        pass: '!XDOr^r&)stg'
     }
 });
 
@@ -20,7 +20,7 @@ const transporter = nodemailer.createTransport({
 // Función para enviar el correo
 const sendMail = async ({ to, subject, message }) => {
     const mailOptions = {
-        from: 'evento@techawards2024.cl',
+        from: 'eventounestadodigital@unestadodigital.cl',
         to: to,
         subject: subject,
         html: message,

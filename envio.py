@@ -2,7 +2,7 @@ import requests
 
 # Lista de clientes
 clientes = [
-    {"nombre": "Bastian", "email": "bastianlandskronfreelancer@gmail.com"}
+
 ]
 
 
@@ -14,15 +14,12 @@ mensaje_base = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Awards 2024 Invitation</title>
+    <title>Un estado digital 2024 Invitation</title>
 </head>
 <body>
-    <a href="https://techawards2024.cl/home/">
-    <img src="https://img.techawards2024.cl/var/albums/Invitacio%CC%81n%20TECH%20AWARDS%202024%20NEW.jpg?m=1724085945" alt="Tech Awards 2024" style="width: 100%; height: auto;">
+    <a href="https://unestadodigital.cl/home/">
+        <img src="https://img.unestadodigital.cl/var/albums/Recordatorio.jpg?m=1728252667" alt="Un estado digital" style="width: 100%; height: auto;">
     </a>
-    <a href="https://techawards2024.cl/ics/TechAwards2024.ics" style="background-color: #007BFF; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">Agrega el evento a tu calendario</a>
-    <p>Pronto más información. Si tienes alguna pregunta, no dudes en contactarnos a evento@techawards2024.cl
-</p>
 </body>
 </html>
 """
@@ -33,7 +30,7 @@ def enviar_email(cliente):
     
     payload = {
         'to': email_cliente,
-        'subject': f"Hola {cliente['nombre']} Invitación TECH AWARS 2024",
+        'subject': f"Hola {cliente['nombre']} Te esperamos este miércoles",
         'message': mensaje
     }
     
