@@ -296,5 +296,17 @@ clientes = [
     {"nombre": "Olga", "email": "oegonzalez@sanbernardo.cl"},
     {"nombre": "Luis", "email": "lbaez@supereduc.cl"},
     {"nombre": "Luis", "email": "lpaternina@digital.gob.cl"},
-    {"nombre": "Luis", "email": "lpinaud@digital.gob.cl"}
+    {"nombre": "Luis", "email": "lpinaud@digital.gob.cl"},
+    {"nombre": "Manuel", "email": "parcelas2011@gmail.com"},
+    {"nombre": "Valeria", "email": "vjensen@mtt.gob.cl"},
+    {"nombre": "Felipe", "email": "Felipe.pizarror@correoaiep.cl"},
+    {"nombre": "Josefina", "email": "josefina.pavone@chiletec.org"},
+    {"nombre": "Claudio", "email": "claudio.gonzalez.c@usach.cl"},
+    {"nombre": "Rodrigo", "email": "rtrujillo@digital.gob.cl"},
+    {"nombre": "Julian", "email": "Julian.sandoval@api-ux.com"},
+    {"nombre": "Santiago", "email": "santiago.vergara@api-ux.com"},
+    {"nombre": "Debora", "email": "debora.starocelsky@api-ux.com"},
+    {"nombre": "Maximiliano", "email": "maximiliano.acevedo@api-ux.com"},
+    {"nombre": "Michelle", "email": "michelle.suegart@api-ux.com"},
+    {"nombre": "Kevin", "email": "Kevin.simi@api-ux.com"}
 ]
