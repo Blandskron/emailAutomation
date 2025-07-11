@@ -7,11 +7,11 @@ app.use(bodyParser.json());
 
 // Configuración de Nodemailer con SMTP de cPanel
 const transporter = nodemailer.createTransport({
-    host: 's320.v2nets.com', // Host del servidor SMTP de cPanel
+    host: 's320.nets.com', // Host del servidor SMTP de cPanel
     port: 465, // Puerto SMTP (465 para SSL)
     secure: true, // true para SSL
     auth: {
-        user: 'eventounestadodigital@unestadodigital.cl',
+        user: 'example@example.cl',
         pass: '!XDOr^r&)stg'
     }
 });
@@ -20,7 +20,7 @@ const transporter = nodemailer.createTransport({
 // Función para enviar el correo
 const sendMail = async ({ to, subject, message }) => {
     const mailOptions = {
-        from: 'eventounestadodigital@unestadodigital.cl',
+        from: 'evento@example.cl',
         to: to,
         subject: subject,
         html: message,
